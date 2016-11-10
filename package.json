@@ -1,0 +1,17 @@
+{
+  "name": "search_react_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Lee Kestner",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.1.1",
+    "reactify": "^1.1.1",
+    "uglify-js": "^2.7.4",
+    "watchify": "^3.7.0"
+  }
+}
