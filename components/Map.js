@@ -1,4 +1,6 @@
 var React = require('react');
+var ReactDom = require('react-dom');
+
 
 var Map = React.createClass({
 

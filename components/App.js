@@ -100,6 +100,9 @@ var App = React.createClass({
 
                     if (status !== 'OK') return;
 
+                    var latlng = results[0].geometry.location;
+
+
                     self.setState({
                         currentAddress: results[0].formatted_address,
                         mapCoordinates: {
