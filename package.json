@@ -13,6 +13,7 @@
   "dependencies": {
     "browserify": "^13.1.1",
     "moment": "^2.15.2",
+    "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "reactify": "^1.1.1",
     "uglify-js": "^2.7.4",

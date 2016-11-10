@@ -16,7 +16,7 @@ var Search = React.createClass({
 
         this.props.onSearch(this.state.value);
 
-        this.getDOMNode().querySelector ('input').blur();
+        this.getDOMNode().querySelector('input').blur();
     },
 
     render() {
