@@ -65,6 +65,7 @@ https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.24/gmaps.js
 
 ### Other Notes 
 - Reps, Reps Reps
+
 I highly suggest coding it out, and not copy and paste. Certainly sse a working version for reference. 
 You will learn more, promise. 
 - If there are any problems, submit an issue! 
